@@ -1,0 +1,19 @@
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\bin\Debug\App Change Resolution.exe.config
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\bin\Debug\App Change Resolution.exe
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\bin\Debug\App Change Resolution.pdb
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App Change Resolution.csprojAssemblyReference.cache
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App_Change_Resolution.Form1.resources
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App_Change_Resolution.Properties.Resources.resources
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App Change Resolution.csproj.GenerateResource.cache
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App Change Resolution.csproj.CoreCompileInputs.cache
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App Change Resolution.exe
+C:\Users\Uue\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App Change Resolution.pdb
+C:\Users\clsrn\source\repos\App Change Resolution\App Change Resolution\bin\Debug\App Change Resolution.exe.config
+C:\Users\clsrn\source\repos\App Change Resolution\App Change Resolution\bin\Debug\App Change Resolution.exe
+C:\Users\clsrn\source\repos\App Change Resolution\App Change Resolution\bin\Debug\App Change Resolution.pdb
+C:\Users\clsrn\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App Change Resolution.csprojAssemblyReference.cache
+C:\Users\clsrn\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App_Change_Resolution.Form1.resources
+C:\Users\clsrn\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App_Change_Resolution.Properties.Resources.resources
+C:\Users\clsrn\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App Change Resolution.csproj.GenerateResource.cache
+C:\Users\clsrn\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App Change Resolution.exe
+C:\Users\clsrn\source\repos\App Change Resolution\App Change Resolution\obj\Debug\App Change Resolution.pdb
